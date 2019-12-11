@@ -1,6 +1,6 @@
 # U-FRRN
 
-[Fast User-Guided Single Image Reflection Removal via Edge-aware Cascaded Networks](https://www.baidu.com)
+[Fast User-Guided Single Image Reflection Removal via Edge-aware Cascaded Networks](https://ieeexplore.ieee.org/document/8890835)
 
 ### Representitive Results
 
@@ -47,4 +47,20 @@ We embed the test function in `train.py`, you can directly use it.
 ## Demo
 
 We will provide a demo soon!
+
+![demo](/media/b3-542/196AE2835A1F87B0/HeHai/Project/Reflection/U-FRRN/${assets}/demo.png)
+
+If you find this work useful for you, please cite
+
+```
+@article{zhang2019fast,
+  title={Fast User-Guided Single Image Reflection Removal via Edge-aware Cascaded Networks},
+  author={Zhang, Huaidong and Xu, Xuemiao and He, Hai and He, Shengfeng and Han, Guoqiang and Qin, Jing and Wu, Dapeng},
+  journal={IEEE Transactions on Multimedia},
+  year={2019},
+  publisher={IEEE}
+}
+```
+
+
 
