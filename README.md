@@ -48,7 +48,7 @@ We embed the test function in `train.py`, you can directly use it.
 
 We will provide a demo soon!
 
-![demo](/media/b3-542/196AE2835A1F87B0/HeHai/Project/Reflection/U-FRRN/${assets}/demo.png)
+![demo](./assets/demo.png)
 
 If you find this work useful for you, please cite
 
